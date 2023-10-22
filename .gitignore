@@ -1,0 +1,8 @@
+build/
+*.vcxproj
+*.filters
+*.user
+*.exe
+*.kbs
+*.stg
+*.pdb
